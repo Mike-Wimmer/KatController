@@ -11,7 +11,7 @@
 
 #define CONTROLLER_ID 2
 #define TEAMNUMBER    22
-String * controllerName = new String("GameController_" + String(TEAMNUMBER));
+String * controllerName = new String("KatController");
 
 Accessory classic;
 long timeSincePrint = 0;
